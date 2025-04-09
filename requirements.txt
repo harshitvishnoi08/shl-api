@@ -1,0 +1,10 @@
+Flask
+pandas
+faiss-cpu
+sentence-transformers
+torch
+requests
+python-dotenv
+asgiref
+gunicorn
+uvicorn
